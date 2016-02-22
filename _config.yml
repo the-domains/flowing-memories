@@ -1,7 +1,7 @@
 name: Flowing Memories
 favicon: null
-layout_spectrum: 0.6834684840869159
-typography_spectrum: 0.887482458492741
+layout_spectrum: 0.8098
+typography_spectrum: 0.6468
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.14347344124689698
-  lightness: 0.7493221315089613
-  saturation: 0.24292511935345829
-  rhythmicContrast: 0.08466762211173773
+    - '#180411'
+    - '#e7e8cf'
+    - '#ae6964'
+    - '#ff0066'
+    - '#7c0d3d'
+  brandStrength: 0.25
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.25
 purpose: []
